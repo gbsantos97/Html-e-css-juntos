@@ -1,0 +1,8 @@
+@import url(https://fonts.google.com/specimen/Acme#type-tester); 
+
+h1 {
+    color: blue;
+    font-family: 'Acme', sans-serif;
+}
+strong {color: red;
+    }
